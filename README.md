@@ -1,1 +1,1 @@
-# Okul_Sistemi
+# Okul_Bilgi_Sistemi
